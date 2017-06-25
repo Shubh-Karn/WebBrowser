@@ -9,3 +9,5 @@ Git repository for servo:
 https://github.com/servo/serv
 
 Any comment or advice is highly appreciated.
+
+Email: s2.shubh2@gmail.com
