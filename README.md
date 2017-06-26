@@ -1,12 +1,12 @@
 # WebBrowser
 Creating a web browser from scratch.
 
-This is an experimental learning project. For Now, We are researching pre-requisites.
-
-For Web engine, We are studying servo and learning rust.
+For Web Engine, we are studying Servo and learning Rust.
 
 Git repository for servo:
 https://github.com/servo/serv
+
+This is an experimental learning project. For Now, We are researching pre-requisites.
 
 Any comment or advice is highly appreciated.
 
