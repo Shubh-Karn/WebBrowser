@@ -1,5 +1,5 @@
 # WebBrowser
-Creating a web browser from scratchi
+Creating a web browser from scratch.
 
 This is an experimental learning project. For Now, We are researching pre-requisites.
 
@@ -10,4 +10,4 @@ https://github.com/servo/serv
 
 Any comment or advice is highly appreciated.
 
-Email: s2.shubh2@gmail.com
+Email: s2.shubh2@gmail.com, isaurabhdixit@gmail.com
