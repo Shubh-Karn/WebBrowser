@@ -7,7 +7,7 @@ Git repository for servo:
 https://github.com/servo/servo
 
 ## NOTE
-All development goes initially goes into **develop** branch.
+All development initially, will go into the **develop** branch.
 
 This is an experimental learning project. For Now, We are researching pre-requisites.
 
